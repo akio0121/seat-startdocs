@@ -6,4 +6,4 @@
 3. 解答したフォルダ内の index.htmlをブラウザにドラックする。
 
 ## 使用技術（実行環境）
-- JavaScript# seat-startdocs
+- JavaScript
